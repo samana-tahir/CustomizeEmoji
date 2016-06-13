@@ -15,6 +15,19 @@
 		749B21EE1D093648009DC272 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 749B21EC1D093648009DC272 /* LaunchScreen.storyboard */; };
 		749B21F91D093648009DC272 /* CustomizeEmojiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 749B21F81D093648009DC272 /* CustomizeEmojiTests.m */; };
 		749B22041D093648009DC272 /* CustomizeEmojiUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 749B22031D093648009DC272 /* CustomizeEmojiUITests.m */; };
+		749B221B1D0940CC009DC272 /* 02.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22111D0940CC009DC272 /* 02.png */; };
+		749B221C1D0940CC009DC272 /* iphone-6+-size-_04.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22121D0940CC009DC272 /* iphone-6+-size-_04.png */; };
+		749B221D1D0940CC009DC272 /* iphone-6+-size-_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22131D0940CC009DC272 /* iphone-6+-size-_05.png */; };
+		749B221E1D0940CC009DC272 /* iphone-6+-size-_08.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22141D0940CC009DC272 /* iphone-6+-size-_08.png */; };
+		749B221F1D0940CC009DC272 /* iphone-6+-size-_09.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22151D0940CC009DC272 /* iphone-6+-size-_09.png */; };
+		749B22201D0940CC009DC272 /* iphone-6+-size-_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22161D0940CC009DC272 /* iphone-6+-size-_10.png */; };
+		749B22211D0940CC009DC272 /* iphone-6+-size-_13.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22171D0940CC009DC272 /* iphone-6+-size-_13.png */; };
+		749B22221D0940CC009DC272 /* iphone-6+-size-_14.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22181D0940CC009DC272 /* iphone-6+-size-_14.png */; };
+		749B22231D0940CC009DC272 /* iphone-6+-size-_15.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B22191D0940CC009DC272 /* iphone-6+-size-_15.png */; };
+		749B22241D0940CC009DC272 /* iphone-6+-size-_17.png in Resources */ = {isa = PBXBuildFile; fileRef = 749B221A1D0940CC009DC272 /* iphone-6+-size-_17.png */; };
+		749B222E1D094DFA009DC272 /* boy in Resources */ = {isa = PBXBuildFile; fileRef = 749B222B1D094DFA009DC272 /* boy */; };
+		749B222F1D094DFA009DC272 /* girl in Resources */ = {isa = PBXBuildFile; fileRef = 749B222C1D094DFA009DC272 /* girl */; };
+		749B22301D094DFA009DC272 /* halloween in Resources */ = {isa = PBXBuildFile; fileRef = 749B222D1D094DFA009DC272 /* halloween */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +64,19 @@
 		749B21FF1D093648009DC272 /* CustomizeEmojiUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomizeEmojiUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		749B22031D093648009DC272 /* CustomizeEmojiUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomizeEmojiUITests.m; sourceTree = "<group>"; };
 		749B22051D093648009DC272 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		749B22111D0940CC009DC272 /* 02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 02.png; path = ../../../Downloads/food/02.png; sourceTree = "<group>"; };
+		749B22121D0940CC009DC272 /* iphone-6+-size-_04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_04.png"; path = "../../../Downloads/food/iphone-6+-size-_04.png"; sourceTree = "<group>"; };
+		749B22131D0940CC009DC272 /* iphone-6+-size-_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_05.png"; path = "../../../Downloads/food/iphone-6+-size-_05.png"; sourceTree = "<group>"; };
+		749B22141D0940CC009DC272 /* iphone-6+-size-_08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_08.png"; path = "../../../Downloads/food/iphone-6+-size-_08.png"; sourceTree = "<group>"; };
+		749B22151D0940CC009DC272 /* iphone-6+-size-_09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_09.png"; path = "../../../Downloads/food/iphone-6+-size-_09.png"; sourceTree = "<group>"; };
+		749B22161D0940CC009DC272 /* iphone-6+-size-_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_10.png"; path = "../../../Downloads/food/iphone-6+-size-_10.png"; sourceTree = "<group>"; };
+		749B22171D0940CC009DC272 /* iphone-6+-size-_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_13.png"; path = "../../../Downloads/food/iphone-6+-size-_13.png"; sourceTree = "<group>"; };
+		749B22181D0940CC009DC272 /* iphone-6+-size-_14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_14.png"; path = "../../../Downloads/food/iphone-6+-size-_14.png"; sourceTree = "<group>"; };
+		749B22191D0940CC009DC272 /* iphone-6+-size-_15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_15.png"; path = "../../../Downloads/food/iphone-6+-size-_15.png"; sourceTree = "<group>"; };
+		749B221A1D0940CC009DC272 /* iphone-6+-size-_17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "iphone-6+-size-_17.png"; path = "../../../Downloads/food/iphone-6+-size-_17.png"; sourceTree = "<group>"; };
+		749B222B1D094DFA009DC272 /* boy */ = {isa = PBXFileReference; lastKnownFileType = folder; name = boy; path = "../../../Downloads/iphone size (1)/boy"; sourceTree = "<group>"; };
+		749B222C1D094DFA009DC272 /* girl */ = {isa = PBXFileReference; lastKnownFileType = folder; name = girl; path = "../../../Downloads/iphone size (1)/girl"; sourceTree = "<group>"; };
+		749B222D1D094DFA009DC272 /* halloween */ = {isa = PBXFileReference; lastKnownFileType = folder; name = halloween; path = "../../../Downloads/iphone size (1)/halloween"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +143,19 @@
 		749B21DE1D093648009DC272 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				749B222B1D094DFA009DC272 /* boy */,
+				749B222C1D094DFA009DC272 /* girl */,
+				749B222D1D094DFA009DC272 /* halloween */,
+				749B22111D0940CC009DC272 /* 02.png */,
+				749B22121D0940CC009DC272 /* iphone-6+-size-_04.png */,
+				749B22131D0940CC009DC272 /* iphone-6+-size-_05.png */,
+				749B22141D0940CC009DC272 /* iphone-6+-size-_08.png */,
+				749B22151D0940CC009DC272 /* iphone-6+-size-_09.png */,
+				749B22161D0940CC009DC272 /* iphone-6+-size-_10.png */,
+				749B22171D0940CC009DC272 /* iphone-6+-size-_13.png */,
+				749B22181D0940CC009DC272 /* iphone-6+-size-_14.png */,
+				749B22191D0940CC009DC272 /* iphone-6+-size-_15.png */,
+				749B221A1D0940CC009DC272 /* iphone-6+-size-_17.png */,
 				749B21DF1D093648009DC272 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -243,9 +282,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				749B221B1D0940CC009DC272 /* 02.png in Resources */,
+				749B22201D0940CC009DC272 /* iphone-6+-size-_10.png in Resources */,
 				749B21EE1D093648009DC272 /* LaunchScreen.storyboard in Resources */,
 				749B21EB1D093648009DC272 /* Assets.xcassets in Resources */,
+				749B221E1D0940CC009DC272 /* iphone-6+-size-_08.png in Resources */,
 				749B21E91D093648009DC272 /* Main.storyboard in Resources */,
+				749B221C1D0940CC009DC272 /* iphone-6+-size-_04.png in Resources */,
+				749B221D1D0940CC009DC272 /* iphone-6+-size-_05.png in Resources */,
+				749B22301D094DFA009DC272 /* halloween in Resources */,
+				749B22231D0940CC009DC272 /* iphone-6+-size-_15.png in Resources */,
+				749B222E1D094DFA009DC272 /* boy in Resources */,
+				749B222F1D094DFA009DC272 /* girl in Resources */,
+				749B22211D0940CC009DC272 /* iphone-6+-size-_13.png in Resources */,
+				749B22241D0940CC009DC272 /* iphone-6+-size-_17.png in Resources */,
+				749B22221D0940CC009DC272 /* iphone-6+-size-_14.png in Resources */,
+				749B221F1D0940CC009DC272 /* iphone-6+-size-_09.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
